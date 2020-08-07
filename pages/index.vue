@@ -24,7 +24,7 @@
                         post.title
                       }}</nuxt-link>
                     </h1>
-                    <div v-html="post.excerpt" />
+                    <div v-html="post.author" />
                   </div>
                 </div>
               </div>
